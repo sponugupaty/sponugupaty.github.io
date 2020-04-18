@@ -29,6 +29,14 @@ Summary of learning  :
 - WHERE clause allows us to filter rows that meet certain criteria
 - Can use arithmetic operators ( < , <= , > etc ) to build clauses
 - LIKE is the most powerful string operator . LIKE with % ( pattern matching ) and _ ( single character) is useful
+- Aggregation funtions take multiple rows of data and turn them into one number
+- COUNT most used aggregate function and COUNT(<<col_name>>) returns count of non-null rows 
+- NULL is the value of an empty entry . Is not same as '' empty string or 0
+- COUNT( * ) gives us the number of rows with alteast one of their columns is not null 
+- CASE WHEN acts as a big if statement 
+- AVG , LEN , MIN , MAX are the other aggregate functions of interest 
+- GROUP BY helps us to split the data set and apply aggregate functions within each group
+- HAVIG is a post aggregation filter ( similar to WHERE clause )
 - 
 
 
