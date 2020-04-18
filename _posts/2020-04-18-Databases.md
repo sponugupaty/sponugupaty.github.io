@@ -15,12 +15,12 @@ This article is broadly split into Applied SQL - quickly being useful in queryin
 
 ## Applied SQL - Part I ( 2 Hours )
 
-    Section applicable for folks who need to write simple to intermediate complexity SQL queries 
+    Section useful to get a quick start 
 
 One of the best resources I found on the web to quickly get started with learning the basics of SQL was 
 [here](https://www.selectstarsql.com/) . This cool utility is created and  maintained by a Stripe engineer using client side SQL which means that you dont need to download and configure any software . You can edit and run queries on the browser itself . Each of the questions has the authors solutions to compare against .The choice of dataset is intriguing but gothic in nature - death row inmates executed in state of texas since 1976 .
 
-Summary of learning  :
+Cheatsheet of contents  :
 
 - Uses the SQLLite syntax instead of SQL Server . For example - use of LIMIT instead of TOP in select statements
 - SELECT can be followed by special character * ( when we want all the columns ) or column names  
@@ -44,6 +44,7 @@ Summary of learning  :
 - RIGHT JOIN preserves the rows of the right table 
 - OUTER JOIN preserves the rows in both the tables 
 - SELF JOIN powerful way of letting rows get information from other parts of the table 
+- Nested queries will need some practice and understanding of use cases
 
 ---
 
