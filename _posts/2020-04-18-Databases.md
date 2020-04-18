@@ -7,13 +7,9 @@ Here's the table of contents:
 
 ## Introduction
 
-Jekyll requires blog post files to be named according to the following format:
+> SQL is an easy language to learn and difficult to master 
 
-`YEAR-MONTH-DAY-filename.md`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `filename` is whatever file name you choose, to remind yourself what this post is about. `.md` is the file extension for markdown files.
-
-The first line of the file should start with a single hash character, then a space, then your title. This is how you create a "*level 1 heading*" in markdown. Then you can create level 2, 3, etc headings as you wish but repeating the hash character, such as you see in the line `## File names` above.
+Inspired by Josh Kaufman's talk [here](https://www.youtube.com/watch?v=5MgBikgcWnY) , I wanted to run an experiment of spending about 20 hours in reading up about Databases & SQL and being useful with these skills . I also find that lots of people assume that they know SQL well , but are unable to have a fruitfu conversation after the initial handwaving .This article is an effort to fix that by pointing to some very good resources around the web and books which can help us in deep diving into this area.
 
 ## Basic formatting
 
