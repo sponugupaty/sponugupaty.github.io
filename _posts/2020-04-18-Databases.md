@@ -36,9 +36,12 @@ Summary of learning  :
 - CASE WHEN acts as a big if statement 
 - AVG , LEN , MIN , MAX are the other aggregate functions of interest 
 - GROUP BY helps us to split the data set and apply aggregate functions within each group
-- HAVIG is a post aggregation filter ( similar to WHERE clause )
-- 
-
+- HAVING is a post aggregation filter ( similar to WHERE clause )
+- INNER JOIN ( JOIN by default) drops unmatched rows 
+- LEFT JOIN preserves the rows of the left table 
+- RIGHT JOIN preserves the rows of the right table 
+- OUTER JOIN preserves the rows in both the tables 
+- SELF JOIN powerful way of letting rows get information from other parts of the table 
 
 ---
 
