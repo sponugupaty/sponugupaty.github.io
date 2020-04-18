@@ -11,9 +11,17 @@ Here's the table of contents:
 
 Inspired by Josh Kaufman's talk [here](https://www.youtube.com/watch?v=5MgBikgcWnY) , I wanted to run an experiment of spending about 20 hours in reading up about Databases & SQL and being useful with these skills . I also find that lots of people assume that they know SQL well , but are unable to have a fruitfu conversation after the initial handwaving .This article is an effort to fix that by pointing to some very good resources around the web and books which can help us in deep diving into this area.
 
-## Basic formatting
+This article is broadly split into Applied SQL - quickly being useful in querying a dataset using a database of your choice AND Investigatng how commercial database engines work under the hood . 
 
-You can use *italics*, **bold**, `code font text`, and create [links](https://www.markdownguide.org/cheat-sheet/). Here's a footnote [^1]. Here's a horizontal rule:
+## Applied SQL - Part I ( 2 Hours )
+
+One of the best resources I found on the web to quickly get started with learning the basics of SQL was [here] (https://selectstarsql.com/) . This cool utility is created and  maintained by a Stripe engineer using client side SQL which means that you dont need to download and configure any software . The choice of dataset is intriguing but gothic in nature - executions in the state of texas and the last statements made by the inmates prior to the journey to the gallows .
+
+Some key learnings from this exercise :
+
+- item 1
+- item 2
+
 
 ---
 
