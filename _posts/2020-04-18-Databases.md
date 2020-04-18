@@ -16,12 +16,20 @@ This article is broadly split into Applied SQL - quickly being useful in queryin
 ## Applied SQL - Part I ( 2 Hours )
 
 One of the best resources I found on the web to quickly get started with learning the basics of SQL was 
-[here](https://www.selectstarsql.com/) . This cool utility is created and  maintained by a Stripe engineer using client side SQL which means that you dont need to download and configure any software . The choice of dataset is intriguing but gothic in nature - executions in the state of texas and the last statements made by the inmates prior to the journey to the gallows .
+[here](https://www.selectstarsql.com/) . This cool utility is created and  maintained by a Stripe engineer using client side SQL which means that you dont need to download and configure any software . You can edit and run queries on the browser itself . Each of the questions has the authors solutions to compare against .The choice of dataset is intriguing but gothic in nature - death row inmates executed in state of texas since 1976 .
 
-Some key learnings from this exercise :
+Summary of learning  :
 
-- item 1
-- item 2
+- Uses the SQLLite syntax instead of SQL Server . For example - use of LIMIT instead of TOP in select statements
+- SELECT can be followed by special character * ( when we want all the columns ) or column names  
+- Block Comments and single line commenting possible 
+- FROM clause comes always after the SELECT . Is needed only when selecting from a table 
+- By default carries out integer division . Multiply by 1.0 for floating point division
+- Always a good idea to figure out if the version of SQL engine you are using is case sensitive
+- WHERE clause allows us to filter rows that meet certain criteria
+- Can use arithmetic operators ( < , <= , > etc ) to build clauses
+- LIKE is the most powerful string operator . LIKE with % ( pattern matching ) and _ ( single character) is useful
+- 
 
 
 ---
