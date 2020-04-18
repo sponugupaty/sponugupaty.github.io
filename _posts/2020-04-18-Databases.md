@@ -15,7 +15,7 @@ This article is broadly split into Applied SQL - quickly being useful in queryin
 
 ## Applied SQL - Part I ( 2 Hours )
 
-One of the best resources I found on the web to quickly get started with learning the basics of SQL was [here] (https://selectstarsql.com/) . This cool utility is created and  maintained by a Stripe engineer using client side SQL which means that you dont need to download and configure any software . The choice of dataset is intriguing but gothic in nature - executions in the state of texas and the last statements made by the inmates prior to the journey to the gallows .
+One of the best resources I found on the web to quickly get started with learning the basics of SQL was [here] (https://www.selectstarsql.com/) . This cool utility is created and  maintained by a Stripe engineer using client side SQL which means that you dont need to download and configure any software . The choice of dataset is intriguing but gothic in nature - executions in the state of texas and the last statements made by the inmates prior to the journey to the gallows .
 
 Some key learnings from this exercise :
 
