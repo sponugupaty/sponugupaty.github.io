@@ -15,6 +15,8 @@ This article is broadly split into Applied SQL - quickly being useful in queryin
 
 ## Applied SQL - Part I ( 2 Hours )
 
+Section applicable for folks who need to write simple to intermediate complexity SQL queries 
+
 One of the best resources I found on the web to quickly get started with learning the basics of SQL was 
 [here](https://www.selectstarsql.com/) . This cool utility is created and  maintained by a Stripe engineer using client side SQL which means that you dont need to download and configure any software . You can edit and run queries on the browser itself . Each of the questions has the authors solutions to compare against .The choice of dataset is intriguing but gothic in nature - death row inmates executed in state of texas since 1976 .
 
