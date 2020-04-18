@@ -1,4 +1,4 @@
-# Databases & SQL 
+# Databases And SQL 
 
 Here's the table of contents:
 
