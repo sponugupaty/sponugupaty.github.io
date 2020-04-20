@@ -18,6 +18,15 @@ Key notes -
 - The advantage of high end software is only when there is large amount of communication among nodes
 - Ideally adding a machine should scale a system linearly - but overhead of data to be copied & co-ordination of tasks
 - Everything starts with a need to deal with size 
+- *Scalability* is the ability of a system , process or network to handle growing amount of work
+- Or its ability to be enlarged to accomodate that growth
+- 3 Types of scalability 
+- Size Scalability - adding nodes makes system linearly faster ; growing dataset doesnt increase latency
+- Geographic Scalability - Possible to use multiple datacenters to reduce time to respond to queries . 
+- Handle the cross data center latency in a sensible manner 
+- administrative scalability - adding nodes doesnt increase the administrative costs of system 
+- A scalable system meets the peformane and avalability needs of its users 
 - 
+
 ## Fundamentals - Particular Class ( 4 Hours )
 ## Fundamentals - Papers ( 10 Hours )
