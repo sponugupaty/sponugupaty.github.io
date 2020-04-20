@@ -19,9 +19,5 @@ Key notes -
 - Ideally adding a machine should scale a system linearly - but overhead of data to be copied & co-ordination of tasks
 - Everything starts with a need to deal with size 
 - 
-
----
 ## Fundamentals - Particular Class ( 4 Hours )
----
 ## Fundamentals - Papers ( 10 Hours )
----
