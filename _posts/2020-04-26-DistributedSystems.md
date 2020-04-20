@@ -2,8 +2,7 @@
 
 Here's the table of contents:
 
-1. TOC
-{:toc}
+1. TOC{:toc}
 
 ## Fundamentals - Mixu ( 4 Hours )
 [This](http://book.mixu.net/distsys/ebook.html) is an assessible introduction to distributed systems . This is also a quick read of about 70 pages . 
