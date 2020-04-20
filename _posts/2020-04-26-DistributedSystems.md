@@ -25,7 +25,7 @@ Key notes -
 - Geographic Scalability - Possible to use multiple datacenters to reduce time to respond to queries . 
 - Handle the cross data center latency in a sensible manner 
 - administrative scalability - adding nodes doesnt increase the administrative costs of system 
-- A scalable system meets the peformane and avalability needs of its users 
+- A scalable system meets the peformance and avalability needs of its users 
 - *Performance* is amount of work accomplished compared to time and resources used 
 - Depending on context , may involve one of the following 
 - 1.short response time/ low latency
@@ -33,7 +33,18 @@ Key notes -
 - 3.Low Utilisation of computing resources 
 - *Latency* is the difference in time between something happening and becoming visible 
 - Or latency is the time gap between something having already happened and becoming visible 
-- 
+- Information can travel as fast as light and the hardward components also add their own latency 
+- *Availability* - The portion of time a system is in a functioning condition 
+- Distributed systems take a bunch of non-reliable components and builds a reliable system on top 
+- Systems built with redundancy can be tolerant of partial failures and thus will be more available 
+- Availability from a technical perspective is mostly about being fault tolerant 
+- 90%(1 month ) , 99%( < 4 days ) , 99.9%( < 9 Hrs ) , 99.99%( < 1 hr ) , 99.999%( 5 mins ) , 99.9999%( 31 sec )
+- *Fault Tolerance* - Ability of a system to behave in a well-defined manner once fault occurs
+- Increasing nodes - increases probability of failure ( reducing availability and increased administrative costs)
+- Increasing nodes - increases need for communication among nodes ( reducing performance as scale increases )
+- Increase in geographic distance - reducing performance for certain operations 
+- an error is incorrect behavior, while an anomaly is unexpected behavior.
+- Page 8
 
 ## Fundamentals - Particular Class ( 4 Hours )
 ## Fundamentals - Papers ( 10 Hours )
