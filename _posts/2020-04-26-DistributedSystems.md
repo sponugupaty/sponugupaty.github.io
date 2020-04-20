@@ -26,6 +26,13 @@ Key notes -
 - Handle the cross data center latency in a sensible manner 
 - administrative scalability - adding nodes doesnt increase the administrative costs of system 
 - A scalable system meets the peformane and avalability needs of its users 
+- *Performance* is amount of work accomplished compared to time and resources used 
+- Depending on context , may involve one of the following 
+- 1.short response time/ low latency
+- 2.High Throughput / Rate of processing work 
+- 3.Low Utilisation of computing resources 
+- *Latency* is the difference in time between something happening and becoming visible 
+- Or latency is the time gap between something having already happened and becoming visible 
 - 
 
 ## Fundamentals - Particular Class ( 4 Hours )
