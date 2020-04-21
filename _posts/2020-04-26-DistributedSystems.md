@@ -38,13 +38,36 @@ Key notes -
 - Distributed systems take a bunch of non-reliable components and builds a reliable system on top 
 - Systems built with redundancy can be tolerant of partial failures and thus will be more available 
 - Availability from a technical perspective is mostly about being fault tolerant 
-- 90%(1 month ) , 99%( < 4 days ) , 99.9%( < 9 Hrs ) , 99.99%( < 1 hr ) , 99.999%( 5 mins ) , 99.9999%( 31 sec )
+- Availability Metrics -
+  1. 90%(1 month ) 
+  2. 99%( < 4 days )
+  3. 99.9%( < 9 Hrs ) 
+  4.99.99%( < 1 hr ) 
+  5.99.999%( 5 mins ) 
+  6.99.9999%( 31 sec )
 - *Fault Tolerance* - Ability of a system to behave in a well-defined manner once fault occurs
 - Increasing nodes - increases probability of failure ( reducing availability and increased administrative costs)
 - Increasing nodes - increases need for communication among nodes ( reducing performance as scale increases )
 - Increase in geographic distance - reducing performance for certain operations 
 - an error is incorrect behavior, while an anomaly is unexpected behavior.
-- Page 8
+- Abstractions help us in making things more manageable by removing the real life constraints not relevant to solving a problem
+- 3 Types of models -
+  1. System Model ( Synchronous / Asynchronous )
+  2. Failure Model ( Crash Fail , Partition , Byzantine )
+  3. Consistency Model ( Strong , Eventual )
+- Replication and Partition are two fine design techniques
+- Partitioning  -
+    1. Improves performance by reducing the amount of data that needs examining
+    2. Improves availability by allowing partitions to fail independently 
+- Replication -
+    1. Improves peformance by making additional computing power available to a new copy of data 
+    2. Improves availability by creating additional copies of data 
+- Replication provides scalability , performance and fault tolerance 
+- But issue is keeping independent copies of data on multiple machines in synch
+- A good consistency model is crucial and for replication only strong consistency works
+   1. Strong consistency - Assume the data is not replicated at all 
+-  
+
 
 ## Fundamentals - Particular Class ( 4 Hours )
 ## Fundamentals - Papers ( 10 Hours )
