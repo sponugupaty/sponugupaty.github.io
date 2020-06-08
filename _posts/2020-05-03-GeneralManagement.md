@@ -32,4 +32,23 @@ Here's the table of contents:
 **Reference**
 [Blog Post](https://medium.com/@inowland/how-to-grow-as-an-engineering-manager-in-7-steps-a1bf4dcf5e78)
 
+https://medium.com/@inowland/the-seven-areas-of-software-management-be89d213ea7
 
+## Seven Areas Of Software Management 
+
+- Raise your conciousness level to more longer term strategic concerns 
+- addressing these concerns by utilising one's focus and time 
+
+- The 7 major areas of engineering management are -
+	- Engineering - How are things built ?
+	- Execution - How are things built within time and budget ?
+	- Operations - Is the built thing going to keep running ?
+	- People - Are people motivated to take part in what is being built ?
+	- Product - Are customers satisfied by what is being build ?
+	- Partners - Do my partners understand and agree with all the above ?
+	- Company - How do I get the company to agree to all of these ?
+
+- Be wary of people who always meet their goals - they have traded unseen and valuable to nominal and rewarded
+
+**Reference**
+[Blog Post](https://medium.com/@inowland/the-seven-areas-of-software-management-be89d213ea7)
