@@ -50,3 +50,45 @@ Here's the table of contents:
 
 **Reference**
 [Blog Post](https://medium.com/@inowland/the-seven-areas-of-software-management-be89d213ea7)
+
+https://medium.com/@inowland/management-area-1-engineering-8d6d9da1ee7c
+
+## Engineering 
+
+- What are the means that engineers in your team use to create work products ?
+- Coming from a software developement background , this is the easiest to grok 
+- But your job is to ensure that the team uses the right tools and processes to meet the short and long term needs of the business
+- this leads to tension along the following dimensions -
+	- what do the engineers want - might want status quo or might want to abondon something completely 
+	- What does the business want short term - Usually means ignoring anything that doesnt have immediate impact
+	- What does the business want long term - stable strong team and ensuring the systems stays simple as it grows 
+	- What are the current sunk costs that you have ? Difficult to reconcile with above 
+- To understand the current position of the team -
+	- Engineering Proccesses - Lang , Style , Reviews , Unit Tests , Integration , Design Reviews
+	- Engineering Tools - IDE , Build Tools , Deployment tools 
+		- What is being done by team ?
+		- What are the org Policies ?
+		- What are industry best practices ?
+	- Understand teams pain points about the above 
+	- Undertand the partner teams pain with the current team 
+- Given that these questions are more than a full time role , use the 1:1's to gauge engineers judgement 
+- Use them to trim the surface to be able to work with some of the questions 
+- 2 ways to drill down to a weighted priotised list of pain points -
+	- Drill down on a customer problem till you find the tool or process which might be the ideal place to avoid it 
+	- Using a survey 
+- To get to the weigted list of actions - 2 ends of the spectrum 
+- Compare the benefits of silver bullet options vs the more incremental option 
+- If mutliple large changes do pass the cost/benefit analysis -
+	- Time and focus limited for you and your team . Implement one large change at a time 
+	- Choose the right bullets with large industry and Organisational momentum 
+	- Dont jump too close to a good bullet since it might turn out to be bad . 
+	- Let others do the early adoption issues 
+- Other issue might be inertia in which a viable solution doesnt get the resourcing it needs to succceed.
+- And since your time is limited and you lack contiguos time - you need help 
+- While Senior Engineers agree that we need to collectively work on making tools and processes better ,
+	- they themselves dont want to work on it and they have more important things to work on 
+	- part of it is also that they believe these initiatives ( high on toil and low on learning) are not recognised or rewarded
+	- Find the tech owner to own this area
+
+**References**
+[Blog Post](https://medium.com/@inowland/management-area-1-engineering-8d6d9da1ee7c)
