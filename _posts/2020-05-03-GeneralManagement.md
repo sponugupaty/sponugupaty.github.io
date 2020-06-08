@@ -32,8 +32,6 @@ Here's the table of contents:
 **Reference**
 [Blog Post](https://medium.com/@inowland/how-to-grow-as-an-engineering-manager-in-7-steps-a1bf4dcf5e78)
 
-https://medium.com/@inowland/the-seven-areas-of-software-management-be89d213ea7
-
 ## Seven Areas Of Software Management 
 
 - Raise your conciousness level to more longer term strategic concerns 
