@@ -92,3 +92,54 @@ https://medium.com/@inowland/management-area-1-engineering-8d6d9da1ee7c
 
 **References**
 [Blog Post](https://medium.com/@inowland/management-area-1-engineering-8d6d9da1ee7c)
+
+## Execution 
+- Primary goal is to have a group of people to co-ordinate to execute and deliver
+- Project Management - managing Individuals to deliver a single goal
+- Process Management - managing what team members are working on since they are asked to work on multiple priorities
+
+- Project manage to deliver a goal and process manage to simuleneously deliver multiple goals
+- Understand the current state Process -
+	- Do you have full list of projects and goals that the team needs to deliver
+	- Do you understand the relative priority 
+	- Are you overcommited / Capacity planning 
+	- How well is team executing on commitments ?
+	- Are internal team members happy ?
+	- Are partners , management and customers happy ?
+- To understand the current projects -
+	- Is there a clear project owner ?
+	- Are there clear deadlines ?
+	- what buffers do you have ? Do mgmt and partners understand the risks ?
+
+- A large amount of the the tension in organizations is disagreements on the absolute priorities of projects
+	- However this gets stated by stakeholders frustration at execution rate on their favored projects
+- Key areas of project and process management are -
+	- Prioritization: Ensuring teams are working on the most important things
+	- Throughput: Optimizing the delivery pipeline; minimizing throw-away and duplicated work
+	- Risk: minimizing variability on quality and time of delivery
+	- Agility: Delivering high-value work earlier to get feedback to allow course correction. This allows risk taking innovation while avoiding rabbit holes.
+	- Communication: Maximizing information and minimizing overhead in coordination and collaboration of everyone doing the work
+	- Commitment: solving collective action problems across partners on implementation tradeoffs impacting them differently
+	- Visibility: Providing management with visibility into delivery state, and so allowing escalation to resolve roadblocks and other challenges
+	- Feedback: Creating information to improve quality of future execution
+- The biggest problems in execution are not usually a team not working hard on important things, 
+- Rather it’s lack of communication about the tradeoffs in priorities on what the team chooses to work on
+- owning the narrative
+	- You need to have a strategy
+	- You need to communicate that strategy
+	- You need to be seen to deliver on your strategy
+- Saying No with data -  Just saying “no” means you will be seen an obstructionist, so you need to ask for the priority
+- Others often have a lot less context on your roadmaps priorities and tradeoffs than you do
+- And thus being strategic is spending the time and focus ahead of time, gathering the data in a manner you can reuse when these questions come up
+- Delegating with supervision is an additional notion that comes from Andy Grove with the key aspect that you have some aspect of supervision to help the delegate succeed
+- Delegation Framework -
+	- A goal
+	- Identification of stakeholder 
+	- recognition of clear owner
+	- Criteria for success/failure on an ongoing basis
+	- Communication agreement with stakeholders that facilitates coordination towards a goal
+- You need to ask your senior engineers to own a certain part of the tactical stuff 
+
+**References**
+[Blog Post](https://medium.com/@inowland/management-area-2-execution-c19192030ff4)
+
