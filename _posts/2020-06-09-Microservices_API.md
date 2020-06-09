@@ -29,11 +29,11 @@ Here's the table of contents:
 	- Understanding of code 
 
 ## Functional Democomposition 
-	- smaller modular services 
-	- Need to understand the individual components rather than the whole thing
-	- each service can be horizontally scaled 
-	- Every service should have its own database 
-	- Enables a polygot architecture 
+ - smaller modular services 
+ - Need to understand the individual components rather than the whole thing
+ - each service can be horizontally scaled 
+ - Every service should have its own database 
+- Enables a polygot architecture 
 - Advantages of microservices 
 	- scaling is easier 
 	- deployment is easier 
