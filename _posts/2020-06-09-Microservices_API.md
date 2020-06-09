@@ -95,5 +95,60 @@ Here's the table of contents:
 	- complex design 
 	- process latency 
 	- monitoring costs
+## Misc
+
+- Circuit breaking pattern is useful when the microservices interact among each other 
+- if there is a dependency between services and one of the services fails to respond 
+- In order to provide an opportunity for the failed service to recover
+	- Circuit breaking allows sending cached responses back to client
+	- Calling a third party service with similar functionalty ( fallback )
+- Some issues with the inter communication between microservices 
+	- Load balancing 
+	- service discovery 
+	- Collecting metrics 
+	- Retries 
+	- circuit breaking 
+	- timeouts
+- Service Mesh is deployed with each microservice to take care of the issues above 
+	- This is called a sidecar pattern
+	- Acts as a proxy between microservices 
+	- 2 key things control plane and data plane 
+- Deployment Patterns 
+	- Considerations for deployment  
+		- scalability and throughput 
+		- reliability and availability
+		- Isolation 
+		- resource limit 
+		- monitoring 
+		- cost effective 
+	- A few patterns 
+		- Multiple services per host 
+		- Advantages 
+			- fast deployment 
+			- cost effective
+		- disadvantages 
+			- poor isolation 
+			- no resource limit 
+			- dependency conflict 
+		- service per container / VM
+		- Advantages 
+			- Isloation and secure 
+			- manageable
+			- fast ( containers only )
+			- autoscaling 
+		- disadvantages 
+			- slow ( VM only )
+			- not efficient ( VM only )
+			- not so secure 
+		- Serverless 
+		- advantages 
+		- focus on code 
+		- no worries about scaling 
+		- pay as you go 
+		- disadvantages 
+		- debugging pain 
+		- vendor lock 
+		- run time environments
+		- expensive 
 
 
