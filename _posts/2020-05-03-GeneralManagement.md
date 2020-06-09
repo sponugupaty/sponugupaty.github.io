@@ -143,3 +143,20 @@ https://medium.com/@inowland/management-area-1-engineering-8d6d9da1ee7c
 **References**
 [Blog Post](https://medium.com/@inowland/management-area-2-execution-c19192030ff4)
 
+## Operations 
+- If you ship something that is underspecified - you will end up in operational hell 
+- The entire team will be busy in doing hands-on fire fighting and no time to have permanent fixes 
+- Preventing this is an issue since shipping features and winning customers more visible 
+- If the same team maintains the system in prod , one of the key issues is over reliance on the engineers with deep expertise
+- A few basic measures to keep track -
+	- How many times were engineers called / paged ?
+	- toil - amount of operational work that needs to be done but noone enjoys
+	- risk backlog - actionable items 
+		- mantain an impact / likelihood and effort needed 
+	- availability and performance SLO's
+	- weekly operational reviews  
+
+**References**
+[Blog Post](https://medium.com/@inowland/management-area-3-operations-a547f8670582)
+
+
