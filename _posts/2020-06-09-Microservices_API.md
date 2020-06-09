@@ -53,4 +53,47 @@ Here's the table of contents:
 	- Functional decomposition 
 	- Horizontal scaling 
 	- Data Partioning 
+	
+## API Gateway 
+
+- One of the key uses of API GW is "ÄPI Composition"
+- BFF pattern - Essentially a gateway for each of the channels like Web , mobile , 3rd party
+- Also possible to have different gateways for different devices - Android , ioS
+- Used to track usage and rate limit the API's
+- Advantages of API GW 
+	- Authentication 
+	- SSL termination 
+	- acts as a load balancer 
+	- Insulation - no direct contact to the API's
+	- Caching 
+	- managing access quotas 
+	- API versioning
+- Disadvantages of API GW
+	- Increases the number of hops 
+	- Adds layer of complexity 
+
+## Service Registry 
+
+- Helps keep track of all the instances / port numbers of containers running the services 
+- 2 ways this is maintained 
+	- Self registry ( each container self registers )
+	- third party registry ( Service register polls the microservices )
+- Service Discovery 
+	- useful when the client wants to talk to the services directly (without the GW )
+	- Useful for the GW to poll the service registry as well 
+
+## Interservice Communication 
+
+- Synchronous calls can happen in realtime in a simple way 
+- Disadvantage  - service availability and response times 
+- Asynchronous calls between API's using queues 
+- Advantages of asychronous -
+	- Faster API's
+	- Decoupled services 
+	- no need for service discovery 
+- disadvantages of asynchronous calls 
+	- complex design 
+	- process latency 
+	- monitoring costs
+
 
