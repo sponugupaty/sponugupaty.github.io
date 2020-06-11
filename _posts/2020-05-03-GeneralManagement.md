@@ -180,4 +180,35 @@ https://medium.com/@inowland/management-area-1-engineering-8d6d9da1ee7c
 - 1:1's figure out what works best for you 
 - Manager roles are peers who provide help 
 
+## People - Managing Motivations 
+- What motivates the team might be different to what the business needs immediately them to do 
+- ~75% of software engineers are motivated by flow 
+- feeling of great absorption, engagement, fulfillment, and skill
+- And ignoring the temporal concerns - time , food , self-ego etc 
+- The envirnment has to be properly managed for engineers to get into the flow state 
+- One of the most critical and difficult things to acheieve is right amount of difficulty matched to Individual's skill
+- From the viewpoint of productivity, our best optimization is to have engineers work where they are most highly skilled
+- However, from the view of getting flow, once an engineer is highly skilled in a certain domain, it is less likely there are enough challenges left for them to hit a state of flow
+- Thinking managers need to balance 
+- good managers walk a curved line between balancing what the business says it immediately wants, and what each engineer wants to do
+- Managing Motivation Framework 
+- **Know what the business wants from your team**
+- An important part is the need to get some sense of tiering of importance/value of the asks
+- **Know your team member’s motivations and if they are being hit**
+-  you should have an always up to date mental tally of what they have done the last 6 months, how motivating it was, and what they want in the future
+- You need to watch for the motivation of your full team, not just the outspoken ones asking for more motivating work
+- **Recognize when people are doing the unmotivating work**
+- **Start scheduling opportunities**
+- Typically 3-6 months of unmotivating work followed by some fun project 
+- **Start working on projects and their justifications**
+-  You need to find a match between what the person finds motivating and something that does have sufficient business value
+- Usually finding something that even if the expected business value is not a top priority, it has high value
+- all work your team does needs a story that your team, peers and leadership all can see that it is adding some business value
+- **Time box, and beware silver bullets**
+- putting hard limits of time (i.e. time boxing), cutting all fat in features, and insisting on incremental delivery
+- Its about balance 
+
+
+
+
 
