@@ -1,4 +1,4 @@
-# General Management - Role Understanding
+# Management : General Management - Role Understanding
 
 Here's the table of contents:
 
