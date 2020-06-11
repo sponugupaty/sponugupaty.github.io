@@ -208,7 +208,8 @@ https://medium.com/@inowland/management-area-1-engineering-8d6d9da1ee7c
 - putting hard limits of time (i.e. time boxing), cutting all fat in features, and insisting on incremental delivery
 - Its about balance 
 
-
+**References**
+[Slide Share](https://www.slideshare.net/IanNowland/managing-by-missing)
 
 
 
