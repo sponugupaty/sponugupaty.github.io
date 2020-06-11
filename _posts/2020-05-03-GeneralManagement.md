@@ -97,7 +97,6 @@ https://medium.com/@inowland/management-area-1-engineering-8d6d9da1ee7c
 - Primary goal is to have a group of people to co-ordinate to execute and deliver
 - Project Management - managing Individuals to deliver a single goal
 - Process Management - managing what team members are working on since they are asked to work on multiple priorities
-
 - Project manage to deliver a goal and process manage to simuleneously deliver multiple goals
 - Understand the current state Process -
 	- Do you have full list of projects and goals that the team needs to deliver
@@ -158,5 +157,27 @@ https://medium.com/@inowland/management-area-1-engineering-8d6d9da1ee7c
 
 **References**
 [Blog Post](https://medium.com/@inowland/management-area-3-operations-a547f8670582)
+
+## People - Understanding Motivations  
+- Are people motivated to take part in what is beig bult 
+- Understand a subset of someone's motivations and something that you can work upon 
+- Use this 3 steps process -
+	- use 1:1's to better understand someone's motivations 
+	- use 1:1's to ensure they stay motivated 
+	- spend time and capital to make adjustments when needed 
+- And yet there is a struggle. Which is, how many people are motivated by the things you are, and/or how long is your personal motivation clearly the right thing for the business?
+- **Almost** always you will have a diversely motivated team .All the motivations are complimentary
+- Motivation Framework 
+	- Challenge: people who are fulfilled by conquering a challenge.
+	- Flow: people who are fulfilled by the state of flow that comes from thinking deeply about a problem.
+	- Impact: people who are fulfilled to see that what they have done has shown value; they love the feedback loop of “did something this week”.
+	- Autonomy: ties to the last three, but it’s people who are fulfilled to see that value has come from their choices, as opposed to just being a cog in a machine that would have happened whether they were their or not.
+	- People/Team: people who are fulfilled by the first order helping of other team members, often people-pleasers whose motivation comes from seeing that people around them have been helped by their work.
+	- Growth: people who are fulfilled only when they feel like they are being personally stressed to learn new things to succeed. This can be technical learning, but often is just any type of learning they can see the value of
+	- Recognition: similar to People/Team, except its motivation that comes from having explicit recognition, sometimes within the workplace, but sometimes it’s a peer group outside as well.
+	- Compensation: how much someone gets paid, which comes last as while sometimes the absolute dollar figure matters, usually what you find is it’s a relative value that matters to most people, which ties to the last area.
+
+- 1:1's figure out what works best for you 
+- Manager roles are peers who provide help 
 
 
