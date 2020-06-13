@@ -29,14 +29,14 @@ Here's the table of contents:
  - Didnt ask myself - with the lead engineer leaving how do i accomodate the tech debt and have proper handover sessions ?
  - Better rotation among team members . Build redundancy within the team for each major deliverable 
  
- ## Tell me a situation when you had to solve a difficult problem 
+## Tell me a situation when you had to solve a difficult problem 
  - Working in a cross functional team , the adjacent team's manager was always unhappy with my team 
  - The  relationship clearly needed improvement
  - another team makes a request from yours, you need to be clear about what you can reasonably do
  - And if you say no, you want them to understand why
  - Which elements of your plan are most likely to turn them off or produce the most friction? How will you address that?
  
- ## Talk about a project that you took with ambiguity 
+## Talk about a project that you took with ambiguity 
  - Testing assumptions and learning by doing 
  - During my time at a startup , we had customers who regularly refused to write down requirements 
  - documenting our understanding and asking them to validate was partially successful 
@@ -49,7 +49,14 @@ Here's the table of contents:
     -  frame it in the context of a mutual purpose that the boss already cares about
   - Show respect before dissent
   - Ask for — and earn — permission to disagree.
-  
+
+## Talk about a situation where you remotely influenced stakeholders
+## Tell me about a time when you proceeded to deal with an issue without your bosses OK.
+## Please tell me about a time when you had a project in trouble and how you handled it.
+## Tell me about a time when you innovated to simplify a process
+## Talk about a project, where you had to take a difficult decision
+## A time when you took a calculated risk, pushed through with it and succeeded.
+## 
 
 
 
