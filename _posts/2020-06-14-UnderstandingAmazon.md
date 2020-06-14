@@ -17,9 +17,12 @@ Here's the table of contents:
 - **Traffic** - Number of visitors to their website 
 - Every component is an accelerator . Even if one of the components moves, the other one moves as well 
 - Focus is on long term growth vs short term profits 
+
+**Reference**
 [Book](https://www.amazon.com/gp/product/B078FWZGRL/ref=dbs_a_def_rwt_bibl_vppi_i0)
 
-
+## Todo 
+[Ben Evans](https://www.ben-evans.com/benedictevans/2014/9/4/why-amazon-has-no-profits-and-why-it-works)
 
 
 
