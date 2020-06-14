@@ -29,7 +29,7 @@ Here's the table of contents:
 - Amazon’s business is delivering very rapid revenue growth but not accumulating any surplus cash or profits, because every penny of       cash is being ploughed back into expanding the business further
 - Amazon has perhaps 1% of the US retail market by value. Should it stop entering new categories and markets and instead take profit, and by extension leave those segments and markets for other companies? Or should it keep investing to sweep them into the platform? 
 
-
+**References**
 [Amazon Has no profits](https://www.ben-evans.com/benedictevans/2014/9/4/why-amazon-has-no-profits-and-why-it-works)
 [Amazon's Market Share](https://www.ben-evans.com/benedictevans/2019/12/amazons-market-share19)
 
