@@ -5,6 +5,11 @@ Here's the table of contents:
 1. TOC
 {:toc}
 
+## Check for three things -
+- **Fit** - Can your co-workers tolerate you at your workplace ?
+- **Motivation** - Will you love this particular job ?
+- **Strenghts** - Will you be able to do this job ?
+
 ## Framework to use 
 - **Dramatize** the situation 
 - **Indicate** the alternatives
