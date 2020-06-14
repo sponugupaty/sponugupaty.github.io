@@ -1,4 +1,4 @@
-# Amazon Leadership Principles
+# Amazon : Leadership Principles
 
 1. TOC
 {:toc}
