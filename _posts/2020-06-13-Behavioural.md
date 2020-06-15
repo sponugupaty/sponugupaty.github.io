@@ -31,6 +31,14 @@ Here's the table of contents:
 
 ## Leading and Managing Others 
 ### Describe a time when you made an unpopular decision and put it into practice. 
+- Found a design issue just prior to a large release which impacted a certain number of edge cases  
+- Fixing would take 5 days - which meant cutting out on anoher major feature 
+- Or providing an overall unstable code base for the entire release 
+- Downside was potential incident with immediate need to fix 
+- Bad press within the org since the adoption of the product was already a struggle
+- Thought about it for a day and took a decision not to implement the big fix 
+- The defect never happed in production and we were able to fix it in next release
+
 ### Tell me about a situation where you had to motivate your colleagues.
 ### What practical steps have you taken to elicit maximum contributions from each member of your team?
 ### Talk about a time when you demonstrated initiative. 
