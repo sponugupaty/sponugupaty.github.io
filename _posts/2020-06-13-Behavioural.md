@@ -23,13 +23,13 @@ Here's the table of contents:
   - Success Stories 
   - Working With Others
 
-## Management & Leadership Scenarios 
-### Why Amazon ?
+## Why Amazon ?
 - Immense opportunity to create and distributing products at scale taking advantage of Amazon's speed and reach
 - Love diving deep and staying connected . Amazn being a data driven company offers me this opportunity
 - Gives me an opportunity to delight customers at a broader scale
 - Proud amazon customer and kindle owner
 
+## Management & Leadership Scenarios 
 
 ## Difficult Situations And Challenges 
 ### Tell me a situation when you had to solve a difficult problem 
