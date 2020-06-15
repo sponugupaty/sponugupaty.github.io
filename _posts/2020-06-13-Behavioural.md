@@ -41,12 +41,27 @@ Here's the table of contents:
 
 ### Tell me about a situation where you had to motivate your colleagues.
 ### What practical steps have you taken to elicit maximum contributions from each member of your team?
+- In a particular team environment , we were not solving super technical issues 
+- what it meant was , I had to constantly look for learning opportunities in adjacent spaces
+- Motivated team to take on side projects that they could work 
+- Let engineers into non-technical decision making process - product roadmaps and discussions with product managers 
+- Pick the motivations that are suited for individuals 
+- **CHAMPFROGS** : Curiosity, Honor, Acceptance, Mastery, Power, Freedom, Relatedness, Order, Goal, Status
 ### Talk about a time when you demonstrated initiative. 
 ### Describe a time when you gave a presentation to people who didn’t agree with your views. 
 ### Talk about a situation wherein you needed to be able to sell an idea to someone else. 
 ### Describe your experiences in building teams.
+- Have been lucky to grow 2 25+ member teams in last 10 years in management 
+- Hire for attitude . Sometimes tradeoff between technical and attitude skills 
+- Accept the fact that hiring is always a chance 
+- Once directionally aligned on core processes , provide opportunities to lead small to medium sized initiatives
+- Designed the onboarding experience 
+- Delegate and monitor 
 ### Describe a time that you exhibited leadership in your organization.
-
+- Found that we were in general onboarding engineers with narrow skills
+- Sometimes meant that the engineers were not effective in architectural or design discussions
+- Put together an onboarding for engineers in my current role 
+- Distributed systems , SQL , API , Machine Learning ( as needed ) , Networking ( as needed )
 
 ## Difficult Situations 
 ### Describe the most difficult situation you’ve been in and were able to overcome. 
