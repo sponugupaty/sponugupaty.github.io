@@ -48,12 +48,12 @@ Here's the table of contents:
  - light weight prototypes / working code helped resolve the issues 
  
  ## Disagreeing with boss 
-  - Contract for candor upfront.
-    - hold a separate conversation when the stakes are low and emotions are calm to agree with the boss about how to manage those moments 
-  - Discuss intent before content 
-    -  frame it in the context of a mutual purpose that the boss already cares about
-  - Show respect before dissent
-  - Ask for — and earn — permission to disagree.
+ - Contract for candor upfront.
+ - hold a separate conversation when the stakes are low and emotions are calm to agree with the boss about how to manage those moments 
+ - Discuss intent before content 
+ -  frame it in the context of a mutual purpose that the boss already cares about
+ - Show respect before dissent
+ - Ask for — and earn — permission to disagree.
 
 ## Talk about a situation where you remotely influenced stakeholders
 ## Tell me about a time when you proceeded to deal with an issue without your bosses OK.
@@ -61,7 +61,6 @@ Here's the table of contents:
 ## Tell me about a time when you innovated to simplify a process
 ## Talk about a project, where you had to take a difficult decision
 ## A time when you took a calculated risk, pushed through with it and succeeded.
-## 
 
 
 
