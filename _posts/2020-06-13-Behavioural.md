@@ -58,15 +58,22 @@ Here's the table of contents:
  - Took away a lot of time away from the next release work happening 
  - Didnt ask myself - with the lead engineer leaving how do i accomodate the tech debt and have proper handover sessions ?
  - Better rotation among team members . Build redundancy within the team for each major deliverable 
- 
- 
- ## Disagreeing with boss 
+
+
+## Success Stories
+
+## Working With Others
+### Disagreeing with boss 
  - Contract for candor upfront.
  - hold a separate conversation when the stakes are low and emotions are calm to agree with the boss about how to manage those moments 
  - Discuss intent before content 
  -  frame it in the context of a mutual purpose that the boss already cares about
  - Show respect before dissent
  - Ask for — and earn — permission to disagree.
+
+
+
+
 
 ## Talk about a situation where you remotely influenced stakeholders
 ## Tell me about a time when you proceeded to deal with an issue without your bosses OK.
