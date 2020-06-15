@@ -75,17 +75,17 @@ Here's the table of contents:
 ### What accomplishment are you most proud of? 
 ### When’s the last time you achieved something you felt was important? 
 ### What was the best thing you learned from a non-work related incident? 
-## Have you ever gone beyond what was expected? Tell me about that time.
-## Describe a time when you went outside normal procedures to get a project done. 
-## Were you ever able to defuse a problem before it escalated? 
-## What would you say was your greatest innovation? 
-## What is the most innovative thing that you have created?
-## Tell me about the most innovative thing you have ever created.
-## Tell me about a time when you innovated to simplify a process
-## What was your most creative solution to a problem that came up?
-## A time when you took a calculated risk, pushed through with it and succeeded.
-## Give me 5 examples of how you are working to better yourself
-## Tell me your most successful project which you led, what did you achieve at the end?
+### Have you ever gone beyond what was expected? Tell me about that time.
+### Describe a time when you went outside normal procedures to get a project done. 
+### Were you ever able to defuse a problem before it escalated? 
+### What would you say was your greatest innovation? 
+### What is the most innovative thing that you have created?
+### Tell me about the most innovative thing you have ever created.
+### Tell me about a time when you innovated to simplify a process
+### What was your most creative solution to a problem that came up?
+### A time when you took a calculated risk, pushed through with it and succeeded.
+### Give me 5 examples of how you are working to better yourself
+### Tell me your most successful project which you led, what did you achieve at the end?
 
 
 ## Working with Others 
