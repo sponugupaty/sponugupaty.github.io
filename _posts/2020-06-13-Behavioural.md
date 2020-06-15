@@ -57,7 +57,7 @@ Here's the table of contents:
 - Once directionally aligned on core processes , provide opportunities to lead small to medium sized initiatives
 - Designed the onboarding experience 
 - Delegate and monitor 
-- How we work charter 
+- How we work charter ( team charters and retrospectives )
 ### Describe a time that you exhibited leadership in your organization.
 - Found that we were in general onboarding engineers with narrow skills
 - Sometimes meant that the engineers were not effective in architectural or design discussions
@@ -69,6 +69,7 @@ Here's the table of contents:
 ### When was the last time you didn’t meet your deadlines? 
 ### What happened when there was a major change in your job? Were you able to adapt? 
 ### How would you deal with changing priorities? 
+- [Blog Post](https://www.linkedin.com/pulse/change-management-what-do-when-priorities-gregg-brown-msc-pmp-ctdp/)
 ### Describe a situation where you have to make a decision with insufficient knowledge.
 ### Tell me what you would do when you’re swamped with data and too little time to parse it. 
 ### What happened the last time that you handled a risky scenario?
