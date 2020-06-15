@@ -16,13 +16,20 @@ Here's the table of contents:
 - **Go** through what you did 
 - **summarize** your impact 
 
+## 5 Categories 
+  - Management & Leadership Scenarios 
+  - Difficult Situations and challenges 
+  - Mistakes you made and failures 
+  - Success Stories 
+  - Working With Others
+  
 ## Why Amazon ?
 - Immense opportunity to create and distributing products at scale taking advantage of Amazon's speed and reach
 - Love diving deep and staying connected . Amazn being a data driven company offers me this opportunity
 - Gives me an opportunity to delight customers at a broader scale
 - Proud amazon customer and kindle owner
 
-## Tell me a time when you failed 
+### Tell me a time when you failed 
 - 3 critical things to watch out for 
   - Did you take responsibility ?
   - what did you learn ?
