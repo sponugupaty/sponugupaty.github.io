@@ -32,6 +32,19 @@ Here's the table of contents:
 
 
 ## Difficult Situations And Challenges 
+### Tell me a situation when you had to solve a difficult problem 
+ - Working in a cross functional team , the adjacent team's manager was always unhappy with my team 
+ - The  relationship clearly needed improvement
+ - another team makes a request from yours, you need to be clear about what you can reasonably do
+ - And if you say no, you want them to understand why
+ - Which elements of your plan are most likely to turn them off or produce the most friction? How will you address that?
+### Talk about a project that you took with ambiguity 
+ - Testing assumptions and learning by doing 
+ - During my time at a startup , we had customers who regularly refused to write down requirements 
+ - documenting our understanding and asking them to validate was partially successful 
+ - light weight prototypes / working code helped resolve the issues 
+
+
 
 ## Mistakes you made and failures
 ### Tell me a time when you failed 
@@ -46,18 +59,6 @@ Here's the table of contents:
  - Didnt ask myself - with the lead engineer leaving how do i accomodate the tech debt and have proper handover sessions ?
  - Better rotation among team members . Build redundancy within the team for each major deliverable 
  
-## Tell me a situation when you had to solve a difficult problem 
- - Working in a cross functional team , the adjacent team's manager was always unhappy with my team 
- - The  relationship clearly needed improvement
- - another team makes a request from yours, you need to be clear about what you can reasonably do
- - And if you say no, you want them to understand why
- - Which elements of your plan are most likely to turn them off or produce the most friction? How will you address that?
- 
-## Talk about a project that you took with ambiguity 
- - Testing assumptions and learning by doing 
- - During my time at a startup , we had customers who regularly refused to write down requirements 
- - documenting our understanding and asking them to validate was partially successful 
- - light weight prototypes / working code helped resolve the issues 
  
  ## Disagreeing with boss 
  - Contract for candor upfront.
