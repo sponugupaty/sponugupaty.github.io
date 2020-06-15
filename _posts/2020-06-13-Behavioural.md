@@ -57,6 +57,7 @@ Here's the table of contents:
 - Once directionally aligned on core processes , provide opportunities to lead small to medium sized initiatives
 - Designed the onboarding experience 
 - Delegate and monitor 
+- How we work charter 
 ### Describe a time that you exhibited leadership in your organization.
 - Found that we were in general onboarding engineers with narrow skills
 - Sometimes meant that the engineers were not effective in architectural or design discussions
