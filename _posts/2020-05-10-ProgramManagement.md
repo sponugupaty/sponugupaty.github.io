@@ -46,6 +46,18 @@ Taken from a typical job description:
   https://asana.com/resources/managing-multiple-projects
   
 ## Understand customer needs 
+  - One of the most famous frameworks is "Jobs To Be Done"framework 
+  - What job is your product hired to do ?
+  - Which progress is the customer trying to make in a given circumstance 
+  - To inovate - start with customer struggle and not need 
+  - Since the need is always archetyped on the existing world 
+  - Minimize ( direction) + {the time OR the likelihood} ( metric) + object of control + [optional contextual clarifier].
+  
+  **References** 
+  https://uxdesign.cc/job-to-be-done-to-understand-customer-personas-better-3963eff273f8
+  https://jtbd.info/great-innovators-start-with-customer-struggles-not-customer-needs-7f9a4fd9412a
+  https://medium.com/frameplay/the-one-construct-you-need-to-describe-customer-needs-f5f8e6bc89ae
+  
 ## Define clear projects plans 
 ## Execute to high expectations in rapindly changing environment 
   - https://sloanreview.mit.edu/article/three-meaningful-strategies-for-managing-rapid-change/
