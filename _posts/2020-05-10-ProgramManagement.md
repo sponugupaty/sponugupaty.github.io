@@ -42,6 +42,8 @@ Taken from a typical job description:
     - stagger start dates for similar projects 
     - flag duplicates 
     - look for dependencies
+  **reference**
+  https://asana.com/resources/managing-multiple-projects
   
 ## Understand customer needs 
 ## Define clear projects plans 
