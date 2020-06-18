@@ -33,6 +33,16 @@ Taken from a typical job description:
   - https://goberoi.com/on-writing-product-roadmaps-a4d72f96326c
 
 ## Managing multiple projects 
+  - Make ure plan , process and responsibilities are clear 
+  - Make sure goals , schedules and who is responsible is clear
+  - Ensuring that templates are clear for each of the projects leads 
+  - priorotise projects based on impacts 
+  - look at work across projects to balance orkloads and timelines
+  - Adjust schedules to maximise team productivity 
+    - stagger start dates for similar projects 
+    - flag duplicates 
+    - look for dependencies
+  
 ## Understand customer needs 
 ## Define clear projects plans 
 ## Execute to high expectations in rapindly changing environment 
