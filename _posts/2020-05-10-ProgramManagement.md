@@ -30,7 +30,7 @@ Taken from a typical job description:
     - Meeting with stakeholders 
     - Get Signoff 
       
-  - https://goberoi.com/on-writing-product-roadmaps-a4d72f96326c
+  - [Product Roadmap](https://goberoi.com/on-writing-product-roadmaps-a4d72f96326c)
 
 ## Managing multiple projects 
   - Make ure plan , process and responsibilities are clear 
@@ -43,7 +43,7 @@ Taken from a typical job description:
     - flag duplicates 
     - look for dependencies
   **reference**
-  https://asana.com/resources/managing-multiple-projects
+  [Managing Multiple Projects](https://asana.com/resources/managing-multiple-projects)
   
 ## Understand customer needs 
   - One of the most famous frameworks is "Jobs To Be Done"framework 
@@ -54,11 +54,13 @@ Taken from a typical job description:
   - Minimize ( direction) + {the time OR the likelihood} ( metric) + object of control + [optional contextual clarifier].
   
   **References** 
-  https://uxdesign.cc/job-to-be-done-to-understand-customer-personas-better-3963eff273f8
-  https://jtbd.info/great-innovators-start-with-customer-struggles-not-customer-needs-7f9a4fd9412a
-  https://medium.com/frameplay/the-one-construct-you-need-to-describe-customer-needs-f5f8e6bc89ae
+  [Jobs To Be Done](https://uxdesign.cc/job-to-be-done-to-understand-customer-personas-better-3963eff273f8)
+  [Jobs To Be Done](https://jtbd.info/great-innovators-start-with-customer-struggles-not-customer-needs-7f9a4fd9412a)
+  [1 Key Construct](https://medium.com/frameplay/the-one-construct-you-need-to-describe-customer-needs-f5f8e6bc89ae)
   
 ## Define clear projects plans 
+
+
 ## Execute to high expectations in rapindly changing environment 
   - https://sloanreview.mit.edu/article/three-meaningful-strategies-for-managing-rapid-change/
   - 
