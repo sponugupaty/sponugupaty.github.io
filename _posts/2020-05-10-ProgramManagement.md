@@ -8,6 +8,30 @@ Taken from a typical job description:
 ## Inventing Things
 ## Work with leadership , engineering and service owners
 ## Define and develop roadmaps
+  - Roadmaps are a tool to think beyond the next few sprints
+  - they help us to plan , communicate and to get buy in 
+  - this would also mean that the teams are aligned , can focus on executio and hit long term goals
+  - key sections of a roadmap document which can vary from 3-12 months plan 
+    - Primary focus 
+    - Deliverables 
+    - Out Of Scope 
+    - known risks
+    - request to other teams 
+    - current status 
+   - Why create a product roadmap?
+      - Lead → set clear goals for the org to get behind.
+      - Plan → enumerate deliverables and timelines to achieve those goals.
+      - Communicate → get buy in, set accountability, and align the org.
+      - Deliver → create a reliable cadence for shipping, build confidence
+   - How do I go about writing a quarterly roadmap?
+    - Gather ideas 
+    - Write broad roapmap 
+    - Meeting with Engineering
+    - Meeting with stakeholders 
+    - Get Signoff 
+      
+  - https://goberoi.com/on-writing-product-roadmaps-a4d72f96326c
+
 ## Managing multiple projects 
 ## Understand customer needs 
 ## Define clear projects plans 
