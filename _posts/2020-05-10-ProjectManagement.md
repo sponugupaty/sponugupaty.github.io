@@ -12,9 +12,12 @@ Taken from a typical job description:
 ## Understand customer needs 
 ## Define clear projects plans 
 ## Execute to high expectations in rapindly changing environment 
+  - https://sloanreview.mit.edu/article/three-meaningful-strategies-for-managing-rapid-change/
+  - 
 ## Glue that is able to prioritize and manage dependencies across teams
   - https://www.girlsguidetopm.com/dependencies-and-constraints-an-introduction/
-  - 
+  - https://engineering.linkedin.com/blog/2018/09/managing-software-dependency-at-scale
+  - https://thedigitalbusinessanalyst.co.uk/how-to-manage-dependencies-1551355b9025
 ## Dive deep to gather requirements from appropriate stakeholders
   - https://medium.com/@OmarElGabry
   - https://medium.com/techcatch/how-to-confirm-the-requirements-elicitation-results-500d1fd49438
