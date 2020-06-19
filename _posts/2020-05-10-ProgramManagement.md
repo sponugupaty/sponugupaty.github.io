@@ -59,6 +59,21 @@ Taken from a typical job description:
   [1 Key Construct](https://medium.com/frameplay/the-one-construct-you-need-to-describe-customer-needs-f5f8e6bc89ae)
   
 ## Define clear projects plans 
+## Leading a software project
+  - The key responsibilities of a project "Directly Responsible Individual"
+  - Making sure the project is successful 
+  - At a high level the responsibilities of a project DRI are 
+    - **Decision Making** - Having a consultative decision making framework , being willing to move ahead 
+      even when you dont have all the details 
+    - **Intra Team Communication** - Priorotizing and splitting the tasks , set up a cadence for team to collaborate
+      feeback mechanism ( project kickoffs and retros )
+    - **Stakeholder Communication** - Who are the stakeholders and how do I communicate with them at the right detail
+    - **High Level thinking** - Asking the hard questions , defining goals and getting the buy-in , thinking 3 steps to anticipate the          next roadblock 
+    - **Technical Execution** - Writing a spec to get feedback and align work , scoping and sequencing tasks , ensuring the project           meets the quality bar , tracking cleanup work and future feature requests 
+    - **TODO**   
+    
+ **References**
+ [Blog](https://medium.com/@zhangela/how-to-lead-a-software-project-d59ab391dec8)
 
 
 
