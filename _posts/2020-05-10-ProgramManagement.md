@@ -61,6 +61,52 @@ Taken from a typical job description:
 ## Define clear projects plans 
 
 
+
+## Scoping Projects
+- Scoping isnt something that you think about for 1 day and never think about it 
+- You need to pay attention to scoping throughtout the project 
+- Planning Phase : Early stages of defining the project and its goals 
+- Scoping Phase : Where you plan for and estimate all the work that needs to happen 
+- Execution Phase : where the works gets done 
+- Details of **Planning Phase** 
+  - Define very specific goals for the project which helps control feature creep
+  - Explicitly defining anti-goals also helps ( todo : **Examples**)
+  - dividing the scope into must-haves and nice to haves is also a good way 
+  - Minimise the batch size of the project 
+    - Having clear milestones and checkpoints in the project 
+    - Making it launching only part of the project easy 
+  - De-Risk the project as soon as possible 
+    - Tackling the riskiest part of the project first 
+    - Prototying the riskiest parts of the project first 
+    - Typically external subsystems add the most risk to a project
+  - Optimise for the total impact rather than amount of work done 
+  - Avoid re-write of a system 
+    - We tend to undeestimate the amount of time taken 
+    - Tempted to add new features and improvements 
+    - Build an overly complicated system since we are overly focused on the shortcomings of the first system
+  - Details of **Scoping Phase**
+    - Only engineers working on the code should scope 
+    - Dont underestimate amount of work needed 
+    - Divide the project into smaller tasks <5 days ideally 
+    - Define measureable goals to get to the project milestones 
+    - Think of project estimates as probability estimates . 50% chance we will be done in 4 weeks and 90% in 8 weeks
+    - Use historical data 
+    - timebox open ended questions of the project 
+    - Add Buffer 
+  - Execution Phase 
+    - Re-scope regularly based on the planned vs actual time taken 
+    - Use milestones to answer the question - Hows the project going 
+    - If project slips , ensure that everyone understands why the project slipped 
+      - Prepare a revised and realistic plan of the project plan
+
+**References**
+[Scoping](https://www.freecodecamp.org/news/how-to-effectively-scope-your-software-projects-from-planning-to-execution-e96cbcac54b9/)
+
+  
+  
+
+
+
 ## Execute to high expectations in rapindly changing environment 
   - https://sloanreview.mit.edu/article/three-meaningful-strategies-for-managing-rapid-change/
   - 
