@@ -82,7 +82,39 @@
 
 ## Hire and Develop The best 
 - Spending time on top performers is one of the best uses of any leaders time 
-- Ensuring the growth of people who work with/for you is critical 
+- Ensuring the growth of people who work with/for you is critical
+- **Story 1**
+  - Drama 
+    - Lead Engineer in current team bored and felt was not being intellectually challenged 
+    - Was aiming for a role with borader impact
+    - Had limited organisational outreach due to a variety of factors 
+  - Alternate 
+    - Would have quit in short to medium term if these needs were not met 
+  - What did I do ?
+    - Connected him with a few adjacent teams and encouraged him to explore the work these teams were doing
+    - Facilitated that he be invited to solution design sessions within those teams 
+    - Ensured that he was attending forums with the adjacent teams in attendance 
+  - Results 
+    - A few months back , he found a role within another team 
+    - Excited about the technology stack and the work he is doing and impact  
+    - On his way to a very successful stint with this team 
+ - **Story 2 **
+  - Drama 
+    - Introverted engineer on team with a wide area of experience and expertise 
+    - Was doing OK but I felt he could contribute more 
+    - Very detail oriented and loved sharing his experiences 
+  - Alternate 
+    - Being close to his retirement , he would have probably continued in the current fashion 
+  - What did I do ?
+    - Assigned him a small project with a clear mandate to lead the small team 
+    - Gave him the flexibility to choose the team members he wanted to work on his project 
+    - Helped him with the light weight agile processes we follow in the team 
+    - Made him comfortable 
+  - Results 
+    - After 6-8 months , he is now directly responsible individual for this single threaded project 
+    - Has won multiple accolades from the business for helping them with major workflow tradeoffs
+  
+    
 
 ## Insist on Highest standards 
 - Leaders drive their teams to deliver higher quality products , services and processes 
