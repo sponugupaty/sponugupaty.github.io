@@ -13,8 +13,27 @@
 ## Customer Obsession 
 - Every decision of consequence involves the customer
 - Optimise for customer experience over profits 
-- Preferably you’ll know who your customer is, their needs, what they really want from you (outside of your specific tasks), and think about solving their needs, not just tasks.
-- **TBD** - Come up with a story 
+- Preferably you’ll know who your customer is, their needs, what they really want from you (outside of your specific tasks), and think     about solving their needs, not just tasks.
+- How to make it better , faster , cheaper for the customer
+- **Story**
+- **Story 1** 
+  - Drama 
+    - Implementation of a Master Data Management project for a state Justice department 
+    - Studied the typical downsides of MDM initiaves and concluded that we needed to be more agile 
+    - Govt agency not familiar with Agile practices and had a healthy dose of aprehension in adopting Agile 
+  - Alternate 
+    - One of the alternate approaches was to direct the organisation to an external Agile vendor to train employees
+    - Slow process and no guaranteed interest 
+  - What Did I do ?
+    - Proposed a series of lucn brown bags to start talking about Agile 
+    - Started with first priciples of user stories and standups 
+    - Added layers of complexity as went about it 
+  - Results 
+    - Were able to demonstrate working software to a few departments in 3 months time 
+    - Got better buy-in from the other departments and ultimately helped the project to be a success
+ - **Story 2**
+  - Drama 
+    - **TODO**
 
 ## Ownership 
 - Leaders are owners. 
@@ -33,7 +52,24 @@
 - Dont shy away from showing the removal of a process 
 - Simplicity allows for faster and cheaper innovation 
 - Removal is always a better option, when it comes to code, systems, and processes
-- **TBD** Come up with a story 
+- **Story 1 **
+  - Drama 
+    - Adjacent teams writing redundant code for same basic functionality 
+    - UI validations etc and were being challenged on the high cost of estimates due to the dev and test times
+    - The pattern of defects was the same across releases
+    - Each team focused on their own deliverables without much thought to development of reusable components 
+   - Alternate 
+    - Was to accept the status quo and agree that thats how the projects would run 
+    - Leading to engineers wasting a lot of time in writing boiler plate code 
+   - What did I do ?
+    - Proposed a search engine for code to be indexed and easily searched 
+   - Results
+    - Looked at Lucene and simple SQL Text search indexing options and went with the simpler option
+    - Since the reusable code was tested and in majority of the cases , in production after testing 
+    - Meant the bugs count came down . The overall Dev and Test costs also were reduced by 10-20%
+ - **Story 2**
+  - Drama 
+    - **To do**
 
 ## Are Right a Lot 
 - we need them to both have good judgment/instincts, as well as question their own decisions and be open to counter opinions
