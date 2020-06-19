@@ -133,6 +133,22 @@
 ## Frugality
 - Things never cost what they cost, because we can always do less, do it cheaper, do it slower, do it with lower quality
 - When you’re interviewing, we’re looking for you to understand that having not enough time or resources is a fine and expected thing. Having too much to do, and too little time is perfectly ok. Not doing everything you want on a project is healthy, because doing everything you ever wanted to do is inefficient. The last thing on your stack rank will never be done, and we should all be happy with that
+- **Story 1**
+  - Drama 
+    - Could  not hire engineers fast enough to meet all the expected business outcomes
+    - Perenially short of capacity to priority 2 and 3 user needs 
+  - Alternates     
+    - The product vendor services costs did not make it a really feasible option 
+    - The ramp up time for anyone coming from outside market too steep to be useful in 3 months time
+  - What did I do ?
+    - Worked with the offshore vendor to design an onboarding experience for Manual Testers for Dev Skills
+    - After a 45 day immersive experiece , the test team members were ready to join the development team 
+  - Results 
+    - No dedicated test team . Rather the team comprised of engineers and former test only engineers
+    - Engineers cross skilled in development and system testing and team responsible for system testing 
+    - Saved $$ on external hires / Product Vendors and also gave a boost to individuals future prospects 
+    
+    
 
 ## Earn Trust 
 - Leaders listen attentively, speak candidly, and treat others respectfully
