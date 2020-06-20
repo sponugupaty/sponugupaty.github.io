@@ -17,6 +17,13 @@
 - I have worked for large enterprises starting with Peoplesoft , Microsoft , Bank Of America , CommonWealth Bank and more recently in s start up prior to joining Westpac 
 - Started my project management journey at Bank Of America 
 
+## Why Amazon ?
+- Immense opportunity to create and distributing products at scale taking advantage of Amazon’s speed and reach
+- Love diving deep and staying connected . Amazn being a data driven company offers me this opportunity
+- Gives me an opportunity to delight customers at a broader scale
+- Proud amazon customer and kindle owner
+
+
 ## Customer Obsession 
 - Every decision of consequence involves the customer
 - Optimise for customer experience over profits 
