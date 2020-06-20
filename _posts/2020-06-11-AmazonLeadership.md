@@ -126,7 +126,7 @@
     - A few months back , he found a role within another team 
     - Excited about the technology stack and the work he is doing and impact  
     - On his way to a very successful stint with this team 
- - **Story 2 **
+ - **Story 2**
   - Drama 
     - Introverted engineer on team with a wide area of experience and expertise 
     - Was doing OK but I felt he could contribute more 
