@@ -121,9 +121,29 @@ Taken from a typical job description:
   - https://sloanreview.mit.edu/article/three-meaningful-strategies-for-managing-rapid-change/
   - 
 ## Glue that is able to prioritize and manage dependencies across teams
-  - https://www.girlsguidetopm.com/dependencies-and-constraints-an-introduction/
-  - https://engineering.linkedin.com/blog/2018/09/managing-software-dependency-at-scale
-  - https://thedigitalbusinessanalyst.co.uk/how-to-manage-dependencies-1551355b9025
+- **Dependency** : The relationship that defines the order in which tasks are carried out
+- Dependencies for Scheduling:
+  - Finish to start : one finishes before next can start
+  - finish to finish : both tasks need to finish at same time
+  - start to finish : uncommon. Need to start second task for first to finish
+  - start to start : both need to start at the same time 
+- Projects Dependency Matrix :
+  - 2X2 matrix with whether inside or outside of the company vs inside / outside of project
+- Upstream and downstream dependencies 
+  - Upstream : another project ahs to deliver something before our project can do anything 
+  - downstream : what does our project need to deliver for next project to start 
+- Project constraints could be factors that limit the time, resources or budget available to the projec
+- 5-step approach to identifying and reviewing all the dependencies and constraints on your project
+  - Create a Log of All the Project Dependencies: Include who is responsible to manage dependency 
+  - Create a Log of All the Project Constraints: Brainstorm and document all
+  - Ensure the Major Dependencies and Constraints are in Your Project Initiation Document
+  - Ensure the Major Dependencies and Constraints are in Your Risk Log
+  - Agree How You Are Going to Monitor the Dependencies and Constraints
+  
+**References**
+- [Dependency & Constraints](https://www.girlsguidetopm.com/dependencies-and-constraints-an-introduction/)
+- [Dependency Management at Scale](https://engineering.linkedin.com/blog/2018/09/managing-software-dependency-at-scale)
+- [Managing Dependencies](https://thedigitalbusinessanalyst.co.uk/how-to-manage-dependencies-1551355b9025)
 
 ## Dive deep to gather requirements from appropriate stakeholders
 - **Requirements Engineering**
@@ -166,11 +186,10 @@ Taken from a typical job description:
     - Completeness check - All requirements and constraints 
     - Realism Check : Is this practical 
     - Verifiability - Can it be tested 
-  
-  **Reference**
-  [Requirements Engineering](https://medium.com/omarelgabrys-blog/requirements-engineering-introduction-part-1-6d49001526d3)
-  [Requirements Engineering II](https://medium.com/techcatch/how-to-confirm-the-requirements-elicitation-results-500d1fd49438)
-  [Requirements Engineering III](https://medium.com/techcatch/correctly-conducting-elicitation-in-business-analysis-91dbabc888ba)
+**Reference**
+- [Requirements Engineering](https://medium.com/omarelgabrys-blog/requirements-engineering-introduction-part-1-6d49001526d3)
+- [Requirements Engineering II](https://medium.com/techcatch/how-to-confirm-the-requirements-elicitation-results-500d1fd49438)
+- [Requirements Engineering III](https://medium.com/techcatch/correctly-conducting-elicitation-in-business-analysis-91dbabc888ba)
 ## Write clear, detailed level requirements
   - https://medium.com/@karlwiegers/how-detailed-should-requirements-be-d2bc951e9266
   - https://medium.com/@jackiebo/asanas-spec-template-spec-training-33bfd9d4dd32
