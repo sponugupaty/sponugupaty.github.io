@@ -15,6 +15,7 @@
 - Optimise for customer experience over profits 
 - Preferably you’ll know who your customer is, their needs, what they really want from you (outside of your specific tasks), and think     about solving their needs, not just tasks.
 - How to make it better , faster , cheaper for the customer
+- Q: Walk us through a time when you helped a customer through a difficult process and what that looked like.
 - **Story**
 - **Story 1** 
   - Drama 
@@ -40,6 +41,7 @@
 - They think long term and don’t sacrifice long-term value for short-term results. 
 - They act on behalf of the entire company, beyond just their own team. They never say “that’s not my job”
 - You can be confident that you’ll be asked questions to assess if you can act and think as an owner.
+- Q: Give me an example of when you took a risk and failed.
 - **TBD** Come up with a story 
 
 ## Invent And Simplify 
