@@ -42,7 +42,35 @@
 - They act on behalf of the entire company, beyond just their own team. They never say “that’s not my job”
 - You can be confident that you’ll be asked questions to assess if you can act and think as an owner.
 - Q: Give me an example of when you took a risk and failed.
-- **TBD** Come up with a story 
+- **Story 1**
+- Drama 
+  - Me and my team were working on a reporting project in compressed timeframes 
+  - Shortly after the initiation of the project , the main stakeholder had to leave due to personal emergency
+  - Prior to her leaving , we had planned demo with a large audience within her group
+- Alternate 
+  - Should have moved or cancelled the existing invite given the absence of the main stakeholder 
+  - I was comfortable that we understood the requiremeents well enough to develop and show case the reports
+- What did I do ?
+  - Instead of moving the demo with the larger audience , should have taken the time to spend iniitial time with the main stakeholder
+  - And get their buy-in
+- Results 
+  - 20 mins into the demo , it was clear that what we had built did not meet the primary goals of the project
+  - Apologised to the audience and took corrective steps 
+  - Led to about 2 weeks of rework and loss of face 
+- **Story 2**
+- Drama 
+  - Last miniute defect meant that the sequencing of the existing deployment steps would fail
+  - We needed to make changes to the deployment steps 
+  - It was already published to the release team 
+- Alternates
+  - Had a verbal chat with the release co-ordinator and updated 
+- What did I do ?
+  - I should have checked the release notes to ensure that they indeed have been updated
+- Results 
+  - Deployment during production lodgement failed 
+  - Responded with a lightweight process to ensure atleast one engineer signs off on the deployment 
+    
+
 
 ## Invent And Simplify 
 - Leaders expect and require innovation and invention from their teams and always find ways to simplify. 
