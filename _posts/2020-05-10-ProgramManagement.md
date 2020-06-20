@@ -138,9 +138,46 @@ Taken from a typical job description:
   - https://medium.com/@jackiebo/asanas-spec-template-spec-training-33bfd9d4dd32
   - https://www.joelonsoftware.com/2000/10/02/painless-functional-specifications-part-1-why-bother/
 ## Interact and communicate with project stakeholders throughout the lifecycle of the project
-  - https://medium.com/@James.lane/ultimate-soft-skills-to-engage-your-stakeholders-b65c46f52bba
+  - Even if you love your stakeholders , addition of each one of them slows the project
+  - Ability to translate between domains - designer , business anayst , engineer and executive is critical 
+  - TradeOff's between domains are critical for projects to be a success 
+  - You need 4 things while dealing with diverse stakeholders 
+    - **Shared Goal**
+      - It takes effort o translate 
+      - If there is no shared goal - each stakeholder sticks to their interests and biases causing the project to fail
+      - When things get frustruating you can remind of the shared goal and why it is worth 
+    - **Empathy**
+      - Listening to what other person is saying and claryfying it even if it is incovinient 
+      - Value different perspectives 
+    - **Patience**
+      - Often will deal with people who know less than you 
+      - How you deal with the knowledge gap will be key to success
+    - **Prevention and Recovery from Communication Breakdowns**
+      - Get rid of wishful thinking 
+      - Clarify if things are unclear 
+   **References**
+  - [Scott Berkun](https://scottberkun.com/2013/how-to-survive-and-thrive-with-multiple-stakeholders/)
+  
+  - Soft Skills To Engage Stakeholders 
+    - Communication: Adjusts message to stakeholders
+    - Negotiation & Conflict resolution :  The ability of negotiation and conflict resolution isn’t about just getting what you want,         but being able to listen, understand,challenge and manage expectations of stakeholders so that solutions can be sought.
+    - Leadership : Understanding the motivations and thoughts of people around you 
+    - Being a good team worker is always needed to achieve common goals, being able to fit the required roles, knowing when to                 contribute and when to listen
+    - Good **team** workers utilising each others strengths and minimise their weaknesses, assisting in the development of each other by       sharing knowledge and experience
+    - Being **decisive** requires being able to review options, anticipate risks and make them in a timely manner — you are taking                 responsibility for your decision
+    - You need to have a sense of direction of project and think if we need to continue , delay or close
+    - **Confidence** : Need to be able to commnicate confidently on a variety of topics
+    - **Flexibility** : Build relationship of give and take 
+    - **Ability to work under pressure**    
+ **Reference**
+ [Medium Article](https://medium.com/@James.lane/ultimate-soft-skills-to-engage-your-stakeholders-b65c46f52bba)
+ 
+ 
   - https://www.darzin.com/stakeholder-management-ultimate-guide
-  - https://scottberkun.com/2013/how-to-survive-and-thrive-with-multiple-stakeholders/
+  
+  
+  
+  
 ## Resolve roadblocks through driving trade-off decisions to move work forward
   - https://fs.blog/2019/12/tradeoffs-decision-making/
   - https://medium.com/better-programming/technical-debt-and-tradeoffs-in-engineering-4a8696d8a95e
