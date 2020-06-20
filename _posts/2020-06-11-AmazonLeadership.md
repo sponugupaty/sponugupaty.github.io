@@ -157,7 +157,22 @@
 - making some decision is much better than making no decision
 - You learn more from doing things rather than surveying , testing or projecting things 
 - We want leaders who take action, are bold, are willing to take risks, because they know it’s the right thing to do
-
+- Q: Describe how you would handle a busy situation where three people are waiting for help from you.
+- **Story 1**
+- Drama 
+  - Used to be regularly short of time to attend to all requests 
+  - Caused missed opportunities to help 
+- Alternatives 
+  - Overworking and trying to solve a lot of problems / requests at the same time 
+  - Not focused enough 
+- What did I do ?
+  - When in doubt , make a list 
+  - Priorotise based on priority , cost , time to finish 
+  - Stick to priority 1 and 2 
+  - Look at delegating some of the items 
+- Results 
+  - Better grip of my time 
+ 
 ## Frugality
 - Things never cost what they cost, because we can always do less, do it cheaper, do it slower, do it with lower quality
 - When you’re interviewing, we’re looking for you to understand that having not enough time or resources is a fine and expected thing. Having too much to do, and too little time is perfectly ok. Not doing everything you want on a project is healthy, because doing everything you ever wanted to do is inefficient. The last thing on your stack rank will never be done, and we should all be happy with that
