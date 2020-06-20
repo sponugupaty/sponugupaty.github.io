@@ -183,6 +183,7 @@
 - Then you failed to influence them
 - You failed to notice the mistake fast enough
 - We care about long term, not short
+- Q: Tell me a time when you earned the trust of a group.
 - **Story 1**
 - Drama 
   - The Credit decison system used to be developed and maintained by the business
