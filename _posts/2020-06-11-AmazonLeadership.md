@@ -80,7 +80,7 @@
 - Dont shy away from showing the removal of a process 
 - Simplicity allows for faster and cheaper innovation 
 - Removal is always a better option, when it comes to code, systems, and processes
-- **Story 1 **
+- **Story 1**
   - Drama 
     - Adjacent teams writing redundant code for same basic functionality 
     - UI validations etc and were being challenged on the high cost of estimates due to the dev and test times
