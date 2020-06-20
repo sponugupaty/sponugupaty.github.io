@@ -86,12 +86,12 @@
     - UI validations etc and were being challenged on the high cost of estimates due to the dev and test times
     - The pattern of defects was the same across releases
     - Each team focused on their own deliverables without much thought to development of reusable components 
-   - Alternate 
+  - Alternate 
     - Was to accept the status quo and agree that thats how the projects would run 
     - Leading to engineers wasting a lot of time in writing boiler plate code 
-   - What did I do ?
+  - What did I do ?
     - Proposed a search engine for code to be indexed and easily searched 
-   - Results
+  - Results
     - Looked at Lucene and simple SQL Text search indexing options and went with the simpler option
     - Since the reusable code was tested and in majority of the cases , in production after testing 
     - Meant the bugs count came down . The overall Dev and Test costs also were reduced by 10-20%
@@ -183,6 +183,19 @@
 - Then you failed to influence them
 - You failed to notice the mistake fast enough
 - We care about long term, not short
+- **Story 1**
+- Drama 
+  - The Credit decison system used to be developed and maintained by the business
+  - My joining of into the team coincided with the ownership moving to the homegrown IT team
+  - This caused nervousness in the business and resentment in the business and sense of loss of control
+  - Mainly the issues around design were cause of tension 
+ - Alternatives 
+  - One way to push away all the valuable feedback 
+ - What did I do ?
+  -  One of the main contentions was around the design questions 
+  - Rather than brush away the valuable feedback , ensured that the design for any key components was discussed 
+ - Results 
+  - Slowly but surely the business team supported us 
 
 ## Dive Deep 
 - “Trust yet verify” is a favorite phrase at Amazon. We care deeply that leaders keep a careful eye on what they own, and know ways to audit their space. If something doesn’t make sense, our leaders need to have the ability (and interest) to dive in and figure out what’s going on
