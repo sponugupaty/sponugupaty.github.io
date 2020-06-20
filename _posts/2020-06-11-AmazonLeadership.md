@@ -70,8 +70,6 @@
   - Deployment during production lodgement failed 
   - Responded with a lightweight process to ensure atleast one engineer signs off on the deployment 
     
-
-
 ## Invent And Simplify 
 - Leaders expect and require innovation and invention from their teams and always find ways to simplify. 
 - They are externally aware, look for new ideas from everywhere, and are not limited by “not invented here”. 
