@@ -117,11 +117,6 @@ Taken from a typical job description:
 **References**
 [Scoping](https://www.freecodecamp.org/news/how-to-effectively-scope-your-software-projects-from-planning-to-execution-e96cbcac54b9/)
 
-  
-  
-
-
-
 ## Execute to high expectations in rapindly changing environment 
   - https://sloanreview.mit.edu/article/three-meaningful-strategies-for-managing-rapid-change/
   - 
