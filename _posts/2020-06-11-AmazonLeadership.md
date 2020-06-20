@@ -10,6 +10,13 @@
 - Every group creates their own processes and bes practices 
 - When the interviewer says "what else"typically means she is expecting something more 
 
+## Tell me about yourself ( 90 secs )
+- I am currently a program manager at Westpac supporting multiple projects in the credit risk space 
+- I lead and am responsible for work of 25 engineers
+- I have 15 years of experience across a variety of roles from testing , development , design and project management
+- I have worked for large enterprises starting with Peoplesoft , Microsoft , Bank Of America , CommonWealth Bank and more recently in s start up prior to joining Westpac 
+- Started my project management journey at Bank Of America 
+
 ## Customer Obsession 
 - Every decision of consequence involves the customer
 - Optimise for customer experience over profits 
