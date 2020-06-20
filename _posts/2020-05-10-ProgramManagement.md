@@ -124,10 +124,53 @@ Taken from a typical job description:
   - https://www.girlsguidetopm.com/dependencies-and-constraints-an-introduction/
   - https://engineering.linkedin.com/blog/2018/09/managing-software-dependency-at-scale
   - https://thedigitalbusinessanalyst.co.uk/how-to-manage-dependencies-1551355b9025
+
 ## Dive deep to gather requirements from appropriate stakeholders
-  - https://medium.com/@OmarElGabry
-  - https://medium.com/techcatch/how-to-confirm-the-requirements-elicitation-results-500d1fd49438
-  - https://medium.com/techcatch/correctly-conducting-elicitation-in-business-analysis-91dbabc888ba
+- **Requirements Engineering**
+  - 4 step process 
+    - Feasibility - Is the system useful for the business 
+    - Elicitation And Analysis - Discovering requirements 
+    - Specification - Convert requirements into standard format 
+    - Validation - Is this what the business needs 
+  - In real life is not a sequential process , but an iterative one with activities interleaved 
+  - Requirements typically are at 2 levels of details for different readers 
+  - User requirements : Describes in plain english the functions that system would provide and the constraints under which they operate
+  - System Requirement: Detailed description of the system services and the operational constrains such as how the system will be used,     and development constrains such as the programming languages
+  - System Requirements further classified into functional and no-functional requirements 
+    - Functional Requirements: 
+      - Main functions that the system would provide 
+      - Primarily , inputs , processing and output 
+    - Non functional 
+      - Constraints provided on the system 
+      - Sometimes non-functional requirements more important than functional since no workaround
+      - They also need to be measurable 
+      - Typically of one of these categories - Speed , Size , ease of use , robustness , portability
+ - **Feasibility Study**
+  - Identify whether the system is worth implementing and if it can be implemented under the current constraints of budget, technical       skills, schedule, and if it does contribute to the whole organization objectives or not, etc.
+  - The input to the feasibility study is a set of preliminary business requirements, an outline description of the system and how the        system is intended to support business processes
+  - The results of the feasibility study should be a report that recommends whether to go forward to the next process or you won’t be       able to implement the software at all
+ - **Requirement Elicitation & Analysis**
+ - It’s a process of interacting with customers and end-users to find out about the domain requirements, what services the system should    provide, and the other constrains.
+ - Has 4 major steps 
+  - **Requirements Discovery** : Interacting with stakeholders to gather high level requirements 
+  - Interviews , Prototypes , Scenarios are some of the techniques 
+  - Can be a difficult process since users dont always know what they want 
+  - Interviews can be open-ended ( no set questions ) and close-ended( pre-defined set of questions)
+  - **Requirement Classification & Organisation** : Tie all related requirements together 
+  - **Requirement Priorotisation and Negotiation** : Conflict resolution 
+  - **Requirements specification** : Convert into specified formats 
+  - Specification should be clear , consistent and complete
+  - **Requirements Validation** : different types of checks
+    - Validity Checks - Funtions expected vs offered
+    - Consistency Checks - No duplicated 
+    - Completeness check - All requirements and constraints 
+    - Realism Check : Is this practical 
+    - Verifiability - Can it be tested 
+  
+  **Reference**
+  [Requirements Engineering](https://medium.com/omarelgabrys-blog/requirements-engineering-introduction-part-1-6d49001526d3)
+  [Requirements Engineering II](https://medium.com/techcatch/how-to-confirm-the-requirements-elicitation-results-500d1fd49438)
+  [Requirements Engineering III](https://medium.com/techcatch/correctly-conducting-elicitation-in-business-analysis-91dbabc888ba)
 ## Write clear, detailed level requirements
   - https://medium.com/@karlwiegers/how-detailed-should-requirements-be-d2bc951e9266
   - https://medium.com/@jackiebo/asanas-spec-template-spec-training-33bfd9d4dd32
