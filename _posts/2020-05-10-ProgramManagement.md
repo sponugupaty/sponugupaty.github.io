@@ -171,9 +171,7 @@ Taken from a typical job description:
     - **Ability to work under pressure**    
  **Reference**
  [Medium Article](https://medium.com/@James.lane/ultimate-soft-skills-to-engage-your-stakeholders-b65c46f52bba)
- 
- 
-  - https://www.darzin.com/stakeholder-management-ultimate-guide
+- https://www.darzin.com/stakeholder-management-ultimate-guide
   
   
   
@@ -193,7 +191,7 @@ Taken from a typical job description:
   - Tie KPI's to goals and avoid the KPI's being manipulated by having counter goals 
   **Reference**
   - [KPI's II ](https://medium.com/swlh/a-managers-guide-to-key-performance-indicators-kpis-75042180e094)
-  
+  - [25 KPi's](https://www.clearpointstrategy.com/25-important-project-management-kpis/)  
   - [OKR](https://medium.com/@radoshi/10-tips-for-using-okrs-effectively-1c9e84161a67)
   - [KPI's](https://medium.com/@meetfelipe/okr-vs-kpis-what-is-the-difference-ffa54673fcf1)
   
