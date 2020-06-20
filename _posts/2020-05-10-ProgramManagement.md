@@ -183,9 +183,20 @@ Taken from a typical job description:
   - https://medium.com/better-programming/technical-debt-and-tradeoffs-in-engineering-4a8696d8a95e
   - https://femgineer.com/2015/03/how-smart-tradeoffs-software-products-development/
 ## Define, measure and utilize project/program KPIs
+  - KPI's in today's business world has become an misunderstood word with each interpreting them diffrently
+  - KPI's are used to turn a vision into measurable goals 
+  - KPI's trickle down to everyone in the company and become their goals
+  - KPI's are useful since they clarify where the employees need to focus on 
+  - 2 kinds 
+    - High level KPI's for which the executive team is responsible for 
+    - Front line KPI's that middle managers onwards are responsible for 
+  - Tie KPI's to goals and avoid the KPI's being manipulated by having counter goals 
+  **Reference**
+  - [KPI's II ](https://medium.com/swlh/a-managers-guide-to-key-performance-indicators-kpis-75042180e094)
+  
   - [OKR](https://medium.com/@radoshi/10-tips-for-using-okrs-effectively-1c9e84161a67)
   - [KPI's](https://medium.com/@meetfelipe/okr-vs-kpis-what-is-the-difference-ffa54673fcf1)
-  -[KPI's II ](https://medium.com/swlh/a-managers-guide-to-key-performance-indicators-kpis-75042180e094)
+  
 ## Identify and drive continuous process improvements in the PMO
   - [Improvement](https://medium.com/hackernoon/prioritizing-non-feature-work-and-continuous-improvement-bad2a612d860)
   - [Improvement II](https://medium.com/hackernoon/how-does-your-company-approach-continuous-improvement-9fa7ec3545d3)
