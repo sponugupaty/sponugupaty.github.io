@@ -12,7 +12,7 @@
 
 ## Tell me about yourself ( 90 secs )
 - I am currently a program manager at Westpac supporting multiple projects in the credit risk space 
-- I lead and am responsible for work of 25 engineers
+- I lead and am responsible for work of 25 engineers and am part of planning , scoping and execution of multiple concurrent projects
 - I have 15 years of experience across a variety of roles from testing , development , design and project management
 - I have worked for large enterprises starting with Peoplesoft , Microsoft , Bank Of America , CommonWealth Bank and more recently in s start up prior to joining Westpac 
 - Started my project management journey at Bank Of America 
