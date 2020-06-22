@@ -30,6 +30,5 @@ Here's the table of contents:
 - **Cost of storage , is another factor . Almost 10 times the cost of S3 storage**
 - **Request Pricing** is also another key factor . On-demand $1.25 per million writes and $0.25 for million reads
 - start with on-demand pricing( no capacity mgmt burden)  and then consider to provisioned capacity( cost savings )
-- 
 
 
